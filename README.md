@@ -1,4 +1,4 @@
-- 👋 Hi, I’m John Sam Daniel
+- 👋 Hi, I’m John sam 
 - 👀 I’m interested in full stack, Block chain
 - 🌱 I’m currently learning full stack
 - 💞️ I’m looking to collaborate on Full stack, block chain projects
